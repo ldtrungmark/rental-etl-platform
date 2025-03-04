@@ -166,8 +166,11 @@ Notify Telegram
 MongoDB
 ![MongoDB](./img/mongodb.png)
 
+Airflow
+![Airflow](./img/postgres.png)
+
 PostgreSQL
-![Flower](./img/postgres.png)
+![Postgres](./img/postgres.png)
 
 Dashboard
 ![Supperset](./img/dashboard.png)
