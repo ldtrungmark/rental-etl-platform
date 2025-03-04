@@ -160,6 +160,9 @@ RabbitMQ
 Flower
 ![Flower](./img/flower.png)
 
+Notify Telegram
+![Notify](./img/notify.png)
+
 MongoDB
 ![MongoDB](./img/mongodb.png)
 
